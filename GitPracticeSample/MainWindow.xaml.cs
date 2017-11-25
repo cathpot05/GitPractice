@@ -23,6 +23,7 @@ namespace GitPracticeSample
         public MainWindow()
         {
             InitializeComponent();
+            //testing anyeong
         }
     }
 }
