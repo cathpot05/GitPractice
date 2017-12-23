@@ -13,6 +13,7 @@
                 <GradientStop Color="White" Offset="1"/>
             </LinearGradientBrush>
         </Grid.Background>
+        <TextBlock Text="Anyeong Ayisse!" FontSize="20" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"/>
 
     </Grid>
 </UserControl>
