@@ -1,0 +1,5 @@
+*.user
+C01Utility/bin/
+C01Utility/obj/
+.vs/
+packages/
