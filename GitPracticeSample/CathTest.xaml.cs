@@ -24,6 +24,7 @@ namespace GitPracticeSample
         {
             InitializeComponent();
             //Nakakaloka na ang git hahaha
+            //tama ka dyan
         }
     }
 }
