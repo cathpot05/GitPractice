@@ -29,7 +29,7 @@ namespace GitPracticeSample
             //sample conflicts - ayisse
 
             //sample conflicts - Cath
-
+            //sample conflicts 3.0
         }
     }
 }
