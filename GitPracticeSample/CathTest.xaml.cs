@@ -23,6 +23,7 @@ namespace GitPracticeSample
         public CathTest()
         {
             InitializeComponent();
+            //Nakakaloka na ang git hahaha
         }
     }
 }
