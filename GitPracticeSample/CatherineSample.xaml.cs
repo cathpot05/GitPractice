@@ -23,6 +23,7 @@ namespace GitPracticeSample
         public CatherineSample()
         {
             InitializeComponent();
+			//this is just a sample
         }
     }
 }
